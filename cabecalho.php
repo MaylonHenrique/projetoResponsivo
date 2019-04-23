@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap 4 Website Example</title>
+  <title>Minha Home Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -23,20 +23,20 @@
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="index.html">Home</a>
+  <a class="navbar-brand" href="index.php">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Página 1</a>
+        <a class="nav-link" href="quemSomos.php">Quem Somos</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Página 2</a>
+        <a class="nav-link" href="contato.php">Contato</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Página 3</a>
+        <a class="nav-link" href="curriculum.php">Curriculum</a>
       </li>    
     </ul>
   </div>  
