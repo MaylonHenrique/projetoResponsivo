@@ -1,7 +1,7 @@
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Doutor Maylon Henrique</p>
-  <p>Curso Técnico em informatica - Integrado</p>
-  <p>Turma: 3° Informatica</p>
+  <p>Dr. Maylon Henrique<br>
+		Curso Técnico em informática - Integrado<br>
+  Atividade Turma: 3º. Informática</p>
 </div>
 
 </body>

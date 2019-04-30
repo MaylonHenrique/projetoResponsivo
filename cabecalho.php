@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Minha Home Page</title>
+  <title>Minha home page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -11,19 +11,19 @@
   <style>
   .fakeimg {
     height: 200px;
-   /* background: #aaa; */
+   /* background: #aaa;*/
   }
   </style>
 </head>
 <body>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>Maylon Henrique </h1>
-  <p>Este Cara é bonito!xD ps:o site nao é template.. </p> 
+  <h1>Maylon Henrique</h1>			
+  <p>Trabalhando com desenvolvimento de projetos Responsivos</p> 
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="index.php">Home</a>
+  <a class="navbar-brand" href="index.php">HOME</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -40,4 +40,4 @@
       </li>    
     </ul>
   </div>  
-</nav>    
+</nav>
