@@ -4,9 +4,13 @@
 
 <div class="container" style="margin-top:30px">
   <div class="row">
-    <div class="col-sm-8">
+           <div class="col-sm-7">
+                <h1>Localização</h1>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3660.350204808595!2d-51.869819!3d-23.447829!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1286c3f69a9f00db!2sCol%C3%A9gio+Ant%C3%B4nio+Francisco+Lisboa!5e0!3m2!1spt-PT!2sbr!4v1556536792792!5m2!1spt-PT!2sbr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+    <div class="col-sm-5">
       <h2>Contato</h2>
-       <form action="/action_page.php">
+       <form action="email.php" method="post">
 		  <div class="form-group">
 		    <label for="email">Email address:</label>
 		    <input type="email" class="form-control" id="email" name="email">
