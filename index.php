@@ -7,44 +7,37 @@
     <div class="col-sm-4">
       <h2>Sobre Mim</h2>
       <h5>Minha Foto:</h5>
-      <div class="fakeimg"><img src="anythinggoes-600x400.jpg" width="170px" height="200px"></div>
-      <p>Professor universitário e de cursos técnicos.</p>
+      <div class="fakeimg"><img src="maylon.jpg" width="170px" height="200px"></div>
+      <p>Estudante e trabalhador de meio periodo.</p>
       <h3>Alguns links</h3>
-      <p>Oque Faço.</p>
+      <p>Oque Faço:</p>
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
-          <a class="nav-link" href="#">Jogo</a>
+          <a class="nav-link" href="#">Estudo</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Faço Necessidades</a>
+          <a class="nav-link" href="#">Trabalho</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Durmo</a>
+          <a class="nav-link" href="#">Meus Hobby</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Me Alimento</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#">Fico Feliz	</a>
+          <a class="nav-link disabled" href="#">Tenho Preguiça</a>
         </li>
       </ul>
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-8">
-      <h2>Aula de Responsividade</h2>
-      <h5>Framework Bootstrap 4.1, 16 de abril de 2019</h5>
-      <div class="fakeimg"><img src="tela.jpg" alt="" width="250px" height="200px"></div>
-      <p>Descrição..</p>
-      <p>Construção de uma página com a utilização do framework de css - boostratp na versão 4.1.</p>
+      <h2>Quem Sou</h2>
+      <h5>Algumas Coisas a mais sobre mim, oque faço,gosto etc...</h5>
+      <div class="fakeimg"><img src="tela.jpeg" alt="" width="250px" height="200px"></div>
+	      <p align="justify"> Olá tudo bem? Meu Nome é Maylon Henrique tenho 16 anos e vou falar um pouco mais sobre mim. Na foto acima por exemplo eu estou no colégio participando da aula de Desenvolvimento Web do professor Rafael Florindo,que faz parte do curso de informática integrado do Colégio Lisboa que vou falar mais depois.Umas das coisas que eu mais gosto de fazer atualmente é jogar tanto mobile como desktop, é um hobby que tenho e que me distrai de tudo e que gosto muito. Um estilo que gosto muito de jogar é MMORPG que é um estilo onde upa seu personagem e luta. Outro coisa que gosto de fazer que é um outro hobby meu é ir no cinema quando estreia alguma filme que me interessa, os principais são da Marvel, ultimamente eles lançaram muitos filmes e fui ver a maiora para poder acompanhar a história dos filmes que gosto muito. Essas são a principais coisas que gosto de fazer, eu não sou muito de sair de casa então fica so nisso mesmo. </p>
+	       <p align="justify">Eu faço também faço parte de um programa chamado Joevem Aprendiz onde trabalho meio perido na empresa Cobra Rolamentos de Terça a Quinta feira e nos dia de Segunda e Sexta Feira eu vou para o curso la no Senac em Maringá. Os horário que vou tanto na empresa como no curso são das 13:30 as 17:30 da tarde.</p>	     
+             <p>Bom é isso, falei um pouco sobre oque gosto e oque faço, Ate mais! xD</p>    
       <br>
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg">Fake Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
   </div>
-</div>
+
 
 <?php
 	include("rodape.php");	
